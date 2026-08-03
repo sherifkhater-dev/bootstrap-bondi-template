@@ -4,7 +4,7 @@ A modern and responsive landing page built with **Bootstrap 5**, **HTML5**, and 
 
 ## 🚀 Live Demo
 
-[Click Here](https://rad-kulfi-14cabf.netlify.app/)
+[Click Here]([https://rad-kulfi-14cabf.netlify.app/](https://sherift911.github.io/bootstrap-bondi-template/))
 
 ## 📸 Preview
 
